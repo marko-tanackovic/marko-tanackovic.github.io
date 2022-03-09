@@ -1,0 +1,23 @@
+[
+    {
+        "image": {
+            "src": "best-seller-1.jpg",
+            "alt": "Nike Air Force 1 Best Seller"
+        },
+        "name": "Nike Air Force 1"
+    },
+    {
+        "image": {
+            "src": "best-seller-2.jpg",
+            "alt": "Adidas Superstar Best Seller"
+        },
+        "name": "Adidas Superstar"
+    },
+    {
+        "image": {
+            "src": "best-seller-3.jpg",
+            "alt": "Air Max 270 React Best Seller"
+        },
+        "name": "Air Max 270 React"
+    }
+]

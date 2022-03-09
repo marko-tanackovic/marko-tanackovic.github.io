@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Fresh Pair Store</title>
+        <link>https://fresh-pair-store.netlify.app/index.html</link>
+        <description>News</description>
+        <item>
+            <title>Best Seller</title>
+            <link>https://fresh-pair-store.netlify.app/index.html</link>
+            <description>New Best Seller Air Max 270 React.</description>
+        </item> 
+        <item>
+            <title>Store</title>
+            <link>https://fresh-pair-store.netlify.app/store.html</link>
+            <description>New pairs added in store.</description>
+        </item>
+    </channel>
+</rss>

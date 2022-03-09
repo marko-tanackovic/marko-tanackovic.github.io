@@ -1,0 +1,236 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar-brand {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+}
+
+.cart a {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.cart a:hover {
+  color: #fff;
+}
+
+#background-cover {
+  background-image: url(../img/cover.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+}
+
+#background-cover #transparent {
+  width: inherit;
+  height: inherit;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+}
+
+#background-cover #transparent #welcome {
+  position: relative;
+  top: 40%;
+}
+
+#background-cover #transparent #welcome span {
+  font-family: 'Dancing Script', cursive;
+}
+
+#background-cover #transparent #welcome button:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border-color: rgba(0, 0, 0, 0.125);
+}
+
+#background-cover #transparent #welcome button a {
+  color: #6c757d;
+}
+
+#background-cover #transparent #welcome button:hover a {
+  color: #fff;
+}
+
+#about-us img {
+  -webkit-box-shadow: 0px 0px 10px #000;
+          box-shadow: 0px 0px 10px #000;
+}
+
+.card {
+  border: 1px solid #6c757d;
+}
+
+.card a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #e91c23;
+  padding: 5px 10px 5px 10px;
+  margin: 0px auto;
+  border-radius: 10px;
+}
+
+.card a:hover {
+  background-color: #cb0000;
+}
+
+#best-sellers h5 a {
+  color: #e91c23;
+}
+
+#brands {
+  border-top: 1px solid #b2b9be;
+}
+
+#brands #brand-pictures img {
+  width: 70%;
+}
+
+#brands #brand-pictures .brand-picture:hover {
+  opacity: 70%;
+}
+
+footer {
+  border-top: 1px solid #b2b9be;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer #copyright {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+input:focus, input:active, select:focus, select:active, textarea:focus, textarea:active, .primary-button:focus, .primary-button:active {
+  outline: none;
+  border-color: #e91c23 !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(233, 28, 35, 0.25) !important;
+          box-shadow: 0 0 0 0.2rem rgba(233, 28, 35, 0.25) !important;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #e91c23;
+  border-color: #e91c23 !important;
+}
+
+#clear {
+  color: #e91c23;
+}
+
+.single-sneakers {
+  position: relative;
+  background-color: #dee0e2;
+}
+
+.single-sneakers .sneakers-discount {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 100;
+  background-color: rgba(233, 28, 35, 0.7);
+  color: #fff;
+  border-radius: 0px 0px 5px;
+}
+
+.single-sneakers .sneakers-best-seller {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: 100;
+  background-color: rgba(233, 28, 35, 0.7);
+  color: #fff;
+  border-radius: 0px 0px 0px 5px;
+}
+
+.single-sneakers .carousel-control-next-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23e91c23'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.single-sneakers .carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23e91c23'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
+}
+
+.single-sneakers .sneakers-price {
+  border-top: 1px solid #b2b9be;
+}
+
+.single-sneakers .sneakers-price .old-price {
+  font-size: 80%;
+  min-height: 1.2rem;
+}
+
+.single-sneakers .sneakers-name {
+  min-height: 3rem;
+}
+
+.single-sneakers a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #e91c23;
+  padding: 5px 10px 5px 10px;
+  margin: 0px auto;
+  border-radius: 10px;
+}
+
+.single-sneakers a:hover {
+  background-color: #cb0000;
+}
+
+#contact-form {
+  background-color: #b2b9be;
+}
+
+#contact-form button {
+  width: 100%;
+  background-color: #303133;
+  color: #fff !important;
+}
+
+#contact-form input:focus, #contact-form input:active, #contact-form textarea:focus, #contact-form textarea:active {
+  outline: none;
+  border-color: black !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25) !important;
+          box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25) !important;
+}
+
+#contact-information {
+  background-color: #e91c23;
+  color: #fff !important;
+}
+
+#map {
+  width: 100%;
+  height: 50vh;
+}
+
+#map iframe {
+  width: 100%;
+  height: 100%;
+  opacity: 70%;
+}
+
+#shopping-cart {
+  min-height: 20vh;
+}
+
+.sneakers-quantity {
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */

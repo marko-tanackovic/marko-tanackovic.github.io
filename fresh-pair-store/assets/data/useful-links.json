@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Documentation",
+        "icon": "fa-regular fa-file-pdf",
+        "href": "documentation.pdf"
+    },
+    {
+        "name": "Sitemap",
+        "icon": "fa-solid fa-sitemap",
+        "href": "sitemap.xml"
+    },
+    {
+        "name": "Rss",
+        "icon": "fa-solid fa-rss",
+        "href": "rss.xml"
+    }
+]

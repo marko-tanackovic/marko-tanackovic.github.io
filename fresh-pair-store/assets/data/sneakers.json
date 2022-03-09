@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "bestSeller": false,
+        "brand": 1,
+        "name": "Air Max 90 PRM",
+        "images": [
+            {
+                "src": "air-max-90-prm-1.jpg",
+                "alt": "Picture of Nike Air Max 90 PRM"
+            },
+            {
+                "src": "air-max-90-prm-2.jpg",
+                "alt": "Picture of Nike Air Max 90 PRM from another angle"
+            },
+            {
+                "src": "air-max-90-prm-3.jpg",
+                "alt": "Picture of Nike Air Max 90 PRM from above"
+            }
+        ],
+        "discount": 20,
+        "price": {
+            "old": 165,
+            "current": 132
+        }
+    },
+    {
+        "id": 2,
+        "bestSeller": false,
+        "brand": 3,
+        "name": "New Balance 5740",
+        "images": [
+            {
+                "src": "new-balance-5740-1.jpg",
+                "alt": "Picture of New Balance 5740"
+            },
+            {
+                "src": "new-balance-5740-2.jpg",
+                "alt": "Picture of New Balance 5740 from another angle"
+            },
+            {
+                "src": "new-balance-5740-3.jpg",
+                "alt": "Picture of New Balance 5740 from above"
+            }
+        ],
+        "discount": 0,
+        "price": {
+            "old": 0,
+            "current": 120
+        }
+    },
+    {
+        "id": 3,
+        "bestSeller": false,
+        "brand": 1,
+        "name": "Air Max 95 / Kim Jones",
+        "images": [
+            {
+                "src": "air-max-95-kim-jones-1.jpg",
+                "alt": "Picture of Nike Air Max 95 / Kim Jones"
+            },
+            {
+                "src": "air-max-95-kim-jones-2.jpg",
+                "alt": "Picture of Nike Air Max 95 / Kim Jones from another angle"
+            },
+            {
+                "src": "air-max-95-kim-jones-3.jpg",
+                "alt": "Picture of Nike Air Max 95 / Kim Jones from above"
+            }
+        ],
+        "discount": 0,
+        "price": {
+            "old": 0,
+            "current": 240
+        }
+    },
+    {
+        "id": 4,
+        "bestSeller": false,
+        "brand": 4,
+        "name": "Puma RS-X MIX",
+        "images": [
+            {
+                "src": "puma-rs-x-mix-1.jpg",
+                "alt": "Picture of Puma RS-X MIX"
+            },
+            {
+                "src": "puma-rs-x-mix-2.jpg",
+                "alt": "Picture of Puma RS-X MIX from another angle"
+            },
+            {
+                "src": "puma-rs-x-mix-3.jpg",
+                "alt": "Picture of Puma RS-X MIX from above"
+            }
+        ],
+        "discount": 40,
+        "price": {
+            "old": 110,
+            "current": 66
+        }
+    },
+    {
+        "id": 5,
+        "bestSeller": true,
+        "brand": 2,
+        "name": "Adidas Superstar",
+        "images": [
+            {
+                "src": "adidas-superstar-1.jpg",
+                "alt": "Picture of Adidas Superstar"               
+            },
+            {
+                "src": "adidas-superstar-2.jpg",
+                "alt":"Picture of Adidas Superstar from another angle"
+            },
+            {
+                "src": "adidas-superstar-3.jpg",
+                "alt":"Picture of Adidas Superstar from above"
+            }
+        ],
+        "discount": 0,
+        "price": {
+            "old": 0,
+            "current": 100
+        }
+    },
+    {
+        "id": 6,
+        "bestSeller": false,
+        "brand": 4,
+        "name": "Puma RS-FAST NANO",
+        "images": [
+            {
+                "src": "puma-rs-fast-nano-1.jpg",
+                "alt": "Picture of Puma RS-FAST NANO"
+            },
+            {
+                "src": "puma-rs-fast-nano-2.jpg",
+                "alt": "Picture of Puma RS-FAST NANO from another angle"
+            },
+            {
+                "src": "puma-rs-fast-nano-3.jpg",
+                "alt": "Picture of Puma RS-FAST NANO from above"
+            }
+        ],
+        "discount": 40,
+        "price": {
+            "old": 110,
+            "current": 66
+        }
+    },
+    {
+        "id": 7,
+        "bestSeller": false,
+        "brand": 4,
+        "name": "Puma Mirage Mox Suede",
+        "images": [
+            {
+                "src": "puma-mirage-mox-suede-1.jpg",
+                "alt": "Picture of Puma Mirage Mox Suede"
+            },
+            {
+                "src": "puma-mirage-mox-suede-2.jpg",
+                "alt": "Picture of Puma Mirage Mox Suede from another angle"
+            },
+            {
+                "src": "puma-mirage-mox-suede-3.jpg",
+                "alt": "Picture of Puma Mirage Mox Suede from above"
+            }
+        ],
+        "discount": 0,
+        "price": {
+            "old": 0,
+            "current": 115
+        }
+    },
+    {
+        "id": 8,
+        "bestSeller": false,
+        "brand": 2,
+        "name": "Adidas Gazelle",
+        "images": [
+            {
+                "src": "adidas-gazelle-1.jpg",
+                "alt": "Picture of Adidas Gazelle"
+            },
+            {
+                "src": "adidas-gazelle-2.jpg",
+                "alt": "Picture of Adidas Gazelle from another angle"
+            },
+            {
+                "src": "adidas-gazelle-3.jpg",
+                "alt": "Picture of Adidas Gazelle from above"
+            }
+        ],
+        "discount": 0,
+        "price": {
+            "old": 0,
+            "current": 95
+        }
+    },
+    {
+        "id": 9,
+        "bestSeller": false,
+        "brand": 3,
+        "name": "New Balance 327",
+        "images": [
+            {
+                "src": "new-balance-327-1.jpg",
+                "alt": "Picture of New Balance 327"
+            },
+            {
+                "src": "new-balance-327-2.jpg",
+                "alt": "Picture of New Balance 327 from another angle"
+            },
+            {
+                "src": "new-balance-327-3.jpg",
+                "alt": "Picture of New Balance 327 "
+            }
+        ],
+        "discount": 0,
+        "price": {
+            "old": 0,
+            "current": 115
+        }
+    },
+    {
+        "id": 10,
+        "bestSeller": false,
+        "brand": 4,
+        "name": "Puma WILD RIDER SC",
+        "images": [
+            {
+                "src": "puma-wild-rider-sc-1.jpg",
+                "alt": "Picture of Puma WILD RIDER SC"
+            },
+            {
+                "src": "puma-wild-rider-sc-2.jpg",
+                "alt": "Picture of Puma WILD RIDER SC from another angle"
+            },
+            {
+                "src": "puma-wild-rider-sc-3.jpg",
+                "alt": "Picture of Puma WILD RIDER SC from above"
+            }
+        ],
+        "discount": 22,
+        "price": {
+            "old": 125,
+            "current": 98
+        }
+    },
+    {
+        "id": 11,
+        "bestSeller": false,
+        "brand": 1,
+        "name": "Air Max Plus Midnight",
+        "images": [
+            {
+                "src": "nike-air-max-plus-1.jpg",
+                "alt": "Picture of Nike Air Max Plus Midnight"
+            },
+            {
+                "src": "nike-air-max-plus-2.jpg",
+                "alt": "Picture of Nike Air Max Plus Midnight from another angle"
+            },
+            {
+                "src": "nike-air-max-plus-3.jpg",
+                "alt": "Picture of Nike Air Max Plus Midnight from above"
+            }
+        ],
+        "discount": 0,
+        "price": {
+            "old": 0,
+            "current": 180
+        }
+    },
+    {
+        "id": 12,
+        "bestSeller": true,
+        "brand": 1,
+        "name": "Air Force 1",
+        "images": [
+            {
+                "src": "nike-air-force-1-1.jpg",
+                "alt": "Picture of Nike Air Force 1"
+            },
+            {
+                "src": "nike-air-force-1-2.jpg",
+                "alt": "Picture of Nike Air Force 1 from another angle"
+            },
+            {
+                "src": "nike-air-force-1-3.jpg",
+                "alt": "Picture of Nike Air Force 1 from above"
+            }
+        ],
+        "discount": 0,
+        "price": {
+            "old": 0,
+            "current": 120
+        }
+    },
+    {
+        "id": 13,
+        "bestSeller": false,
+        "brand": 1,
+        "name": "Air Force 1 High X Alyx",
+        "images": [
+            {
+                "src": "air-force-1-high-x-alyx-1.jpg",
+                "alt": "Picture of Nike Air Force 1 High X Alyx"
+            },
+            {
+                "src": "air-force-1-high-x-alyx-2.jpg",
+                "alt": "Picture of Nike Air Force 1 High X Alyx from another angle"
+            },
+            {
+                "src": "air-force-1-high-x-alyx-3.jpg",
+                "alt": "Picture of Nike Air Force 1 High X Alyx from above"
+            }
+        ],
+        "discount": 30,
+        "price": {
+            "old": 425,
+            "current": 295
+        }
+    },
+    {
+        "id": 14,
+        "bestSeller": false,
+        "brand": 2,
+        "name": "Yeezy 500",
+        "images": [
+            {
+                "src": "yeezy-500-1.jpg",
+                "alt": "Picture of Yeezy 500"
+            },
+            {
+                "src": "yeezy-500-2.jpg",
+                "alt": "Picture of Yeezy 500 from another angle"
+            },
+            {
+                "src": "yeezy-500-3.jpg",
+                "alt": "Picture of Yeezy 500 from above"
+            }
+        ],
+        "discount": 0,
+        "price": {
+            "old": 0,
+            "current": 205
+        }
+    },
+    {
+        "id": 15,
+        "bestSeller": true,
+        "brand": 1,
+        "name": "Air Max 270 React",
+        "images": [
+            {
+                "src": "nike-air-max-270-react-1.jpg",
+                "alt": "Picture of Nike Air Max 270 React"
+            },
+            {
+                "src": "nike-air-max-270-react-2.jpg",
+                "alt": "Picture of Nike Air Max 270 React from another angle"
+            },
+            {
+                "src": "nike-air-max-270-react-3.jpg",
+                "alt": "Picture of Nike Air Max 270 React from above"
+            }
+        ],
+        "discount": 20,
+        "price": {
+            "old": 270,
+            "current": 230
+        }
+    },
+    {
+        "id": 16,
+        "bestSeller": false,
+        "brand": 1,
+        "name": "Air Max 97",
+        "images": [
+            {
+                "src": "air-max-97-1.jpg",
+                "alt": "Picture of Nike Air Max 97"
+            },
+            {
+                "src": "air-max-97-2.jpg",
+                "alt": "Picture of Nike Air Max 97 from another angle"
+            },
+            {
+                "src": "air-max-97-3.jpg",
+                "alt": "Picture of Nike Air Max 97 from above"
+            }
+        ],
+        "discount": 20,
+        "price": {
+            "old": 200,
+            "current": 160
+        }
+    }
+]
